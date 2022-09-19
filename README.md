@@ -6,6 +6,8 @@
 - 💞️ I'd like to launch pet projects with software and hardware stack, like Arduino, Raspberry PI, driven by python. Some of the you can find below.
 - 📫 You can shoot me an email at antisingle@gmail.com
 
+My [CV is here](https://drive.google.com/file/d/1tii5AvoCG3A5iVDePybfiGoUzgJMidHg/view?usp=sharing)
+
 ## 🛠 My fancy badge area
 **Data Analysis**
 
