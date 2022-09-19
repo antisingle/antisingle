@@ -6,9 +6,14 @@
 - 💞️ I'd like to launch pet projects with software and hardware stack, like Arduino, Raspberry PI, driven by python. Some of the you can find below.
 - 📫 You can shoot me an email at antisingle@gmail.com
 
-## 🛠 My pet projects
+## 🛠 My fancy badge area
+
+... fancy badge area is coming soon ...
+
+## 🐶 My pet projects
 
 ... pet's projects are coming soon ...
+
 
 <!---
 antisingle/antisingle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
