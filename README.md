@@ -1,7 +1,7 @@
 ## 👋 I’m Serg 
 
 - 🔎 I have backgroud in data gathering and analysis in business intelligence, sales and social scienses. 
-- 🌱 I’m currently learning Data Analysis @ [Practicum](https://practicum.com/). During studying I made dozen [projects](https://github.com/antisingle/yp) that I hope make clear my skills.
+- 🌱 I’m currently learning Data Analysis @ [Practicum](https://practicum.com/). During studying I made dozen [projects](https://github.com/antisingle/yp).
 - 🐍 Most of time I use SQL, Python and some math for Data Analysis. 
 - 💞️ I'd like to launch pet projects with software and hardware stack, like Arduino, Raspberry PI, driven by python. Some of the you can find below.
 - 📫 You can shoot me an email at antisingle@gmail.com
